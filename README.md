@@ -114,7 +114,7 @@ I'm an **Embedded AI Engineer** with experience in building and optimizing cutti
 ## 📜 Certifications
 
 - 🎓 **Coursera - Computer Vision Specialization** (September 2025)
-- 🗣️ **Speexx English - B2.2** (June 2025)
+- 🇬🇧 **Speexx English - B2.2** (June 2025)
 - 🇪🇸 **OLS Spanish - B2** (January 2020)
 - 💻 **Cisco - IT Essentials** (May 2013)
 
@@ -132,11 +132,11 @@ I'm an **Embedded AI Engineer** with experience in building and optimizing cutti
 ## 💼 Professional Highlights
 
 ```text
-Experience         : 4+ years in Embedded AI & IoT
-Languages          : C (7+ yrs), C++ (6+ yrs), Python (4+ yrs)
+Working Experience : 4+ years in Embedded AI & IoT
+Languages          : C (7+ yrs), C++ (6+ yrs), Python (5+ yrs)
 Specializations    : Embedded Programming, Machine Learning, Computer Vision
 Location           : Brig, Switzerland 🇨🇭
-Languages Spoken   : 🇮🇹 Italian (Native), 🇬🇧 English (B2.2), 🇪🇸 Spanish (B2)
+Languages Spoken   : 🇮🇹 Italian (Native), 🇬🇧 English, 🇪🇸 Spanish
 ```
 
 ---

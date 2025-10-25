@@ -1,4 +1,4 @@
-# Hello World, I'm Nunzio🤖
+# 🤖Hello World, I'm Nunzio🤖
 
 <div align="center">
   
@@ -160,7 +160,7 @@ I'm always open to discussing:
 
 <div align="center">
   
-### 👨‍⚖️ Don't judge too fast my profile. I've always used versioning at university and enterprise level. On my way to close the gap!   
+#### 👨‍⚖️ Don't judge my GitHub profile too quickly. I've always used versioning at university and enterprise level. On my way to close the gap!   
 ### 💭 *"Building intelligent devices that bridge the gap between physical world and cloud."*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nb97-hub&color=blueviolet&style=for-the-badge)

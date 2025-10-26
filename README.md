@@ -68,29 +68,28 @@ I'm an **Embedded AI Engineer** with experience in building and optimizing cutti
 
 ## 🚀 Featured Projects & Experience
 
-### 🏆 **Luxottica Nuance Audio Glasses** | Team Co-Lead
-**Award:** CES Innovation Award 2025 (Digital Health) + Reply's Most Innovative Project 2025
-- Co-designed solution architecture and firmware for connectivity between audio glasses and iOS/Android apps
+### 👓 **Hearing Aid System embedded in Glasses**
+- Most popular Hearing Aid System of this kind on the market (US and EU)
+- Co-designed solution architecture and firmware for connectivity between embedded audio system and iOS/Android apps
 - Achieved power consumption below **1% of device energy budget**
-- Successfully launched in US and EU markets
 - **Tech:** STM32/NXP, FreeRTOS, C, BLE, Custom OTA, CI/CD
 
-### 🔍 **AI-Powered Road Surface Monitoring** | Team Co-Lead (NDA)
+### 🔍 **AI-Powered Road Surface Monitoring**
 - Developed AI-powered embedded system for road surface monitoring using Computer Vision
 - Delivered full MVP (hardware + firmware + software) in **less than 5 months**
 - **Tech:** Linux, Python, YOLO, Cellular Module, GPS, Camera, MongoDB, AWS
 
-### 🏠 **Smart Household Device** | Team Lead
+### 🏠 **Smart Household Device**
 - Led development of home device with environmental sensing and edge AI processing
 - Real-time audio/video processing with on-device intelligence
 - **Tech:** MPU, Linux, Python, YOLO, ToF sensors, STT
 
-### 🧠 **TinyML at STMicroelectronics** | R&D Engineer
+### 🧠 **TinyML R&D at STMicroelectronics**
 - Developed software suite integrating TinyML with Neural Processing Unit
 - Deep Convolutional Neural Networks optimization for embedded systems
 - **Tech:** STM32, TensorFlow Lite Micro, NPU compiler
 
-### 🔋 **British American Tobacco Firmware** | Embedded Engineer
+### 🔋 **Firmware Refactoring and Optimization**
 - Upgraded firmware for connected products achieving **+25% battery life**
 - Enhanced stability and communication protocols
 - **Tech:** PSoC, C, FreeRTOS, BLE, OTA
